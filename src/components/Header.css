@@ -1,0 +1,9 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+Link{
+    font-size: 20px;
+    
+}

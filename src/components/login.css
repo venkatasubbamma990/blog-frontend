@@ -1,0 +1,50 @@
+.login-container{
+    border: 5px solid blue;
+    width: 450px;
+    height: 450px;
+    position: relative;
+    margin: 20px auto;
+
+
+}
+.heading{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+input{
+    width: 80%;
+    height: 40px;
+    margin: 5px 15px;
+    padding-left: 40px;
+}
+label{
+    font-size: 20px;
+    margin: 5px 15px;
+
+}
+input[type='checkbox']{
+    width: 20px;
+    height: 20px;
+    
+}
+button{
+    padding: 10px 150px;
+    margin-left: 20px;
+    font-size: 25px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: rgb(219, 60, 97);
+    color: white;
+    position: absolute;
+    bottom: 60px;
+
+}
+.check{
+    position: absolute;
+    left: 50px;
+    top: 225px;
+}
+.child-div{
+    margin-left:610px;
+    font-size: 30px;
+}

@@ -1,0 +1,26 @@
+.buttonz{
+    padding: 10px 150px;
+    margin-left: 20px;
+    font-size: 25px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: rgb(219, 60, 97);
+    color: white;
+    position: absolute;
+    
+}
+.post-container{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    font-size: 30px;
+    margin: 20px auto;
+    box-shadow: 0 5px 10px black;
+}
+input{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.new{
+    text-align: center;
+}
